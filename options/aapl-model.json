@@ -1,0 +1,9 @@
+{
+  "currency": "USD",
+  "expiration": 1.0,
+  "side": "Call",
+  "spot": 212.92999267578125,
+  "strike": 0.0,
+  "type": "European",
+  "underlying": "AAPL"
+}
